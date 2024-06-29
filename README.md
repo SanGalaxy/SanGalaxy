@@ -22,4 +22,4 @@ I program in different areas, for example: front-end (web development), game dev
 <a href="http://www.github.com/sangalaxy"><img src="https://github-readme-stats.vercel.app/api?username=sangalaxy&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="sangalaxy's GitHub stats" /></a>
 
 <a href="https://github.com/sangalaxy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangalaxy&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+<a href="https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/BasicVaught" alt="CodeWars Rating" /><a>
