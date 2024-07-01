@@ -3,7 +3,6 @@ About Me
 
 I program in different areas, for example: front-end (web development), game development and systems development. almost everything I do is passion and hobby
 
-* 🌍  I'm based in Baltic State
 * 🚀  I'm currently working on [making games and improving my knowledge](http://www.roblox.com/games/15090020631/Skafander-battlegrounds)
 
 ### Skills
